@@ -1,0 +1,32 @@
+{
+    "result":{
+        "id":"13a05bf625b966b78fa9e7a6f41d1a77",
+        "cid":"4",
+        "title":"\u4ec5\u970043\u5143\/\u53cc\u62a2\u8d2d\u8fbe\u8299\u59ae\u540c\u6b3e\u590f\u5b63\u5761\u8ddf\u7f57\u9a6c",
+        "partname":"\u3010\u4e24\u53cc\u5305\u90ae\u3011\u9650\u65f6\u62a2\u8d2d\uff01\u73b0\u4ec5\u970038\u5143\/\u53cc\uff0c\u4eab\u53d7\u539f\u4ef7488\u5143\/\u53cc\u7684\u3010\u8fbe\u8299\u59ae\u3011\u540c\u6b3e\u590f\u5b63\u5761\u8ddf\u7f57\u9a6c\u978b\u3001\u97e9\u7248\u5e73\u8ddf\u751c\u7f8e\u8212\u9002\u7cd6\u679c\u8272\u51c9\u978b\u3001\u5973\u58eb\u5355\u978b\u3001\u9732\u8dbe\u5e73\u5e95\u978b\u6bd4\u5761\u8ddf\u978b\u9ad8\u8ddf\u978b\u62d6\u978b\u66f4\u8212\u9002\uff0c\u591a\u8272\u53ef\u9009\uff0c\u751c\u7f8e\u65f6\u5c1a\uff0c\u5b8c\u7f8e\u8d34\u5408\u811a\u578b\uff0c\u8212\u9002\u8010\u7a7f\u4e0d\u78e8\u811a\uff01\u7cbe\u81f4\u7684\u8f66\u5de5",
+        "img":"http:\/\/p3.qhimg.com\/t01560595a435043137.jpg",
+        "start_date":"2013-07-17 00:00:00",
+        "end_date":"2013-08-11 00:00:00",
+        "price":"38",
+        "value":"488",
+        "discount_amount":0,
+        "discount_percent":"0.0",
+        "quantity_sold":"3737",
+        "keywords":"",
+        "remain_time":111413,
+        "sitename":"\u9ea6\u5708\u7f51",
+        "sitekey":"mai_quan",   
+        "oauth":"1",
+        "siteurl":"http:\/\/open.union.360.cn\/go?bid=2000193&qihoo_id=36040&url=http%3A%2F%2Fwww.much001.com%2Fquanguo&pid=&sign=406ae69e33&cid=4020203",
+        "goods_url":"http:\/\/open.union.360.cn\/go?bid=2000193&qihoo_id=36040&url=http%3A%2F%2Fwww.much001.com%2Fjump.php%3Fid%3D92962%26s%3D360%26c%3Dquanguo&pid=89110054&sign=3a47de7be9&cid=4020203",
+        "detail_url":"http:\/\/tuan.360.cn\/?do=vieworder&gkey=13a05bf625b966b78fa9e7a6f41d1a77",
+        "imgarray":"",
+        "comment_num":0,
+        "comment_url":"http:\/\/tuan.360.cn\/?do=viewcomment4m&gkey=13a05bf625b966b78fa9e7a6f41d1a77",
+        "special_tip":"",
+        "merchant":"\u9ea6\u5708\u7f51",
+        "merchant_tel":"400-088-1822",
+        "merchant_addr":"\u5317\u4eac\u5e02\u901a\u5dde\u533a\u901a\u60e0\u5357\u8def8\u53f7"
+    },
+    "ret":1
+}

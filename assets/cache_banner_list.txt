@@ -1,0 +1,97 @@
+{
+    "start":0,
+    "totalSize":5,
+    "size":4,
+    "nextStart":4,
+    "listname":"",
+    "list":[
+        {
+            "id":908,
+            "listid":1035,
+            "rank":1,
+            "showType":"banner",
+            "showProps":{
+                "img_url":"http://img.yingyonghui.com/berry/1_1376390579576.jpg",
+                "description":""
+            },
+            "showOptProps":{
+                
+            },
+            "actionType":"AppDetail",
+            "actionProps":{
+                "packageName":"com.iflytek.cmcc",
+                "app_id":1212477,
+                "block_id":134218
+            },
+            "actionOptProps":{
+                
+            }
+        },
+        {
+            "id":909,
+            "listid":1035,
+            "rank":2,
+            "showType":"banner",
+            "showProps":{
+                "img_url":"http://img.yingyonghui.com/berry/2_1376290889665.jpg",
+                "description":""
+            },
+            "showOptProps":{
+                
+            },
+            "actionType":"AppDetail",
+            "actionProps":{
+                "packageName":"org.mieshiappchina",
+                "app_id":1211811,
+                "block_id":44257
+            },
+            "actionOptProps":{
+                
+            }
+        },
+        {
+            "id":910,
+            "listid":1035,
+            "rank":3,
+            "showType":"banner",
+            "showProps":{
+                "img_url":"http://img.yingyonghui.com/berry/3_1376305128567.jpg",
+                "description":""
+            },
+            "showOptProps":{
+                
+            },
+            "actionType":"AppDetail",
+            "actionProps":{
+                "packageName":"com.iflytek.ihou.chang.app",
+                "app_id":1138333,
+                "block_id":194064
+            },
+            "actionOptProps":{
+                
+            }
+        },
+        {
+            "id":911,
+            "listid":1035,
+            "rank":4,
+            "showType":"banner",
+            "showProps":{
+                "img_url":"http://img.yingyonghui.com/berry/4_1376382672893.jpg",
+                "description":""
+            },
+            "showOptProps":{
+                
+            },
+            "actionType":"AppDetail",
+            "actionProps":{
+                "packageName":"com.sina.news",
+                "app_id":1219027,
+                "block_id":3028
+            },
+            "actionOptProps":{
+                
+            }
+        }
+    ]
+}

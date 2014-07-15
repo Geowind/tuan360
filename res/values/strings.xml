@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tuan</string>
+    <string name="action_settings">Settings</string>
+    <string name="today_tuan">今日团购</string>
+    <string name="title">[麦圈网]【活动限时抢购】上影联合电影城电影票1张，2D/3D可兑，凭电影票可免费停车2小时. 同款夏季坡跟罗马鞋、韩版平跟甜美舒适糖果色凉鞋、女士单鞋、露趾平底鞋跟舒适，多色可选，甜美时尚，完美贴合脚型，舒适耐穿不磨脚！精致的车工走线。</string>
+    <string name="now_value">￥35</string>
+    <string name="old_value">￥50</string>
+    <string name="sale">已售出2345</string>
+    <string name="date">剩余1天08小时34分</string>
+    <string name="tuan_detail">团购详情</string>
+    <string name="share">分享</string>
+    <string name="back">返回</string>
+    <string name="sailer_details">商家详细信息</string>
+    <string name="phone">电话:</string>
+    <string name="address">地址:</string>
+    <string name="city_list">切换城市</string>
+    <string name="more">点击加载更多</string>
+    <string name="more_tv">正在加载</string>
+    <string name="empty">暂时没有你要查询的数据</string>
+
+    <!-- 下拉刷新ListView -->
+    <string name="pull_to_refresh_pull_label">下拉可刷新</string>
+    <string name="pull_to_refresh_release_label">松开可刷新</string>
+    <string name="pull_to_refresh_refreshing_label">正在加载</string>
+    <string name="pull_to_refresh_tap_label">Tap to refresh</string>
+
+</resources>
